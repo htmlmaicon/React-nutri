@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  background-image: url(./img/abacate-organico-de-vista-superior-com-espaco-de-copia.jpg);
+  background-size: cover;  
+ 
+}
+
+header{
+  text-align: center;
+  color: #040409;
+  font-family: Serif;
+  font-size: 30px;
+  margin: 10px;
+  
+
+}
+
+p{
+  margin: 10px;
+  text-align: center;
+}
+
+article strong{
+  margin: 10px;
+  color: #030307 ;
+  text-align: center;
+}
+
+article img{
+  margin: 10px;
+}
+
+
+div {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+button {
+  background-color: #9b451b ;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  margin: 10px auto 20px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+
+}
+
+
